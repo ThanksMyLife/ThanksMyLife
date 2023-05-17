@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <h2> 📫How to reach me</h2>
-E.mail: hajw245.naver.com
+E.mail: <a>hajw245.naver.com</a>
 
 
 <!--
