@@ -34,7 +34,8 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-
+<h2> 📫How to reach me</h2>
+E.mail: hajw245.naver.com
 
 
 <!--
