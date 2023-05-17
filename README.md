@@ -35,8 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <h2> 📫How to reach me</h2>
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twoha0113@gmail.com)](mailto:twoha0113@gmail.com)
-E.mail: <a href="hajw245.naver.com">hajw245.naver.com</a>
+[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twoha0113@gmail.com)](mailto:twoha0113@gmail.com) : twoha0113@gmail.com
 
 
 <!--
